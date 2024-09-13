@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Vruthika/leetcode-sol/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
