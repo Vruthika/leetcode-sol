@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Vruthika/leetcode-sol/tree/master/0056-merge-intervals) |
+| [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 ## Hash Table
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vruthika/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
