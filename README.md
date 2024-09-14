@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vruthika/leetcode-sol/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
