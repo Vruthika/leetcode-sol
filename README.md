@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Vruthika/leetcode-sol/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
