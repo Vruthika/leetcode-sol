@@ -117,4 +117,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Vruthika/leetcode-sol/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Vruthika/leetcode-sol/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vruthika/leetcode-sol/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
