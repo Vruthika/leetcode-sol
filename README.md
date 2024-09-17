@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vruthika/leetcode-sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vruthika/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0227-basic-calculator-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1894-merge-strings-alternately](https://github.com/Vruthika/leetcode-sol/tree/master/1894-merge-strings-alternately) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Vruthika/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
