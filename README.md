@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Vruthika/leetcode-sol/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vruthika/leetcode-sol/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vruthika/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Vruthika/leetcode-sol/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vruthika/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
