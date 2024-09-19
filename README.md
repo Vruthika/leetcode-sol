@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Vruthika/leetcode-sol/tree/master/0224-basic-calculator) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vruthika/leetcode-sol/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
