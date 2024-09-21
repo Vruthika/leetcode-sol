@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Vruthika/leetcode-sol/tree/master/0932-monotonic-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vruthika/leetcode-sol/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/Vruthika/leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Vruthika/leetcode-sol/tree/master/1791-richest-customer-wealth) |
 ## Simulation
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Vruthika/leetcode-sol/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Brainteaser
 |  |
 | ------- |
