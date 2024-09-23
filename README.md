@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Vruthika/leetcode-sol/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vruthika/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Vruthika/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vruthika/leetcode-sol/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vruthika/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
