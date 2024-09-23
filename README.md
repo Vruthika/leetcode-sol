@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vruthika/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Vruthika/leetcode-sol/tree/master/0258-add-digits) |
+| [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Vruthika/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vruthika/leetcode-sol/tree/master/0258-add-digits) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
