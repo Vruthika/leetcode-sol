@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Vruthika/leetcode-sol/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vruthika/leetcode-sol/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vruthika/leetcode-sol/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
