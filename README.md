@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
+| [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Vruthika/leetcode-sol/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
 ## Tree
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vruthika/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 ## Memoization
 |  |
 | ------- |
