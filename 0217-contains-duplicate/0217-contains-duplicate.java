@@ -14,11 +14,18 @@ class Solution {
         }
         return false;*/
 
-        Set<Integer> numsSet=new HashSet<>();
+        /*Set<Integer> numsSet=new HashSet<>();
         for(int n:nums)
         {
             numsSet.add(n);
         }
-        return numsSet.size()<nums.length;
+        return numsSet.size()<nums.length;*/
+        Arrays.sort(nums);
+        for (int i = 0; i < nums.length - 1; ++i) {
+            if (nums[i] == nums[i + 1]) {
+                return true;
+            }
+        }
+        return false;
     }
 }
