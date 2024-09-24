@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vruthika/leetcode-sol/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Vruthika/leetcode-sol/tree/master/1894-merge-strings-alternately) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vruthika/leetcode-sol/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Vruthika/leetcode-sol/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Number Theory
 |  |
 | ------- |
