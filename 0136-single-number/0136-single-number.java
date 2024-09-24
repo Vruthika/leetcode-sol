@@ -1,5 +1,17 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        int n=0;
+        for(int i:nums)
+        {
+            n=n^i;
+        }
+        return n;
+    }
+}
+
+/*
+class Solution {
+    public int singleNumber(int[] nums) {
         Map<Integer,Integer> m=new HashMap<>();
         for(int i:nums)
         {
@@ -15,3 +27,4 @@ class Solution {
         return 0;
     }
 }
+*/
