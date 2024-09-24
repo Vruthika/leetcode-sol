@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vruthika/leetcode-sol/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Vruthika/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vruthika/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Vruthika/leetcode-sol/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vruthika/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Vruthika/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vruthika/leetcode-sol/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vruthika/leetcode-sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Vruthika/leetcode-sol/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vruthika/leetcode-sol/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vruthika/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
