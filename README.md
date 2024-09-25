@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Vruthika/leetcode-sol/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Vruthika/leetcode-sol/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vruthika/leetcode-sol/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Vruthika/leetcode-sol/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vruthika/leetcode-sol/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Vruthika/leetcode-sol/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vruthika/leetcode-sol/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vruthika/leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Vruthika/leetcode-sol/tree/master/0214-shortest-palindrome) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vruthika/leetcode-sol/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Vruthika/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
