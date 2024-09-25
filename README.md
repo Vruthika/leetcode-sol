@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Vruthika/leetcode-sol/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Vruthika/leetcode-sol/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2058-concatenation-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2058-concatenation-of-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vruthika/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2058-concatenation-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2058-concatenation-of-array) |
 ## Brainteaser
 |  |
 | ------- |
