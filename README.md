@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vruthika/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
+| [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
+| [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Vruthika/leetcode-sol/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vruthika/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
+| [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -405,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
