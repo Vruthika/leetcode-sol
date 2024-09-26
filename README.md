@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Vruthika/leetcode-sol/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/1392-find-the-difference-of-two-arrays) |
