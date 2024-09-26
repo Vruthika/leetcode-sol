@@ -1,11 +1,2 @@
 # Write your MySQL query statement below
-SELECT name
-FROM
-    Employee
-    JOIN (
-        SELECT managerId AS id, COUNT(1) AS cnt
-        FROM Employee
-        GROUP BY 1
-        HAVING cnt >= 5
-    ) AS t
-        USING (id);
+select name from employee e1 join (select managerId as id,count(1) as cnt from employee group by 1 having cnt>=5) as t using (id)
