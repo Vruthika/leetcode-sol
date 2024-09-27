@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Vruthika/leetcode-sol/tree/master/0932-monotonic-array) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vruthika/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Vruthika/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vruthika/leetcode-sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
