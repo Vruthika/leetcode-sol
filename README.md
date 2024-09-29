@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
+| [0432-all-oone-data-structure](https://github.com/Vruthika/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vruthika/leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Vruthika/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Vruthika/leetcode-sol/tree/master/0859-design-circular-deque) |
 ## Recursion
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vruthika/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Vruthika/leetcode-sol/tree/master/0303-range-sum-query-immutable) |
+| [0432-all-oone-data-structure](https://github.com/Vruthika/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Vruthika/leetcode-sol/tree/master/0859-design-circular-deque) |
@@ -459,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Vruthika/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
