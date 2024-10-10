@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Vruthika/leetcode-sol/tree/master/0932-monotonic-array) |
+| [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Vruthika/leetcode-sol/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
+| [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vruthika/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vruthika/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vruthika/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
 ## Memoization
 |  |
 | ------- |
