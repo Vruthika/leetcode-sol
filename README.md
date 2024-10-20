@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Vruthika/leetcode-sol/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vruthika/leetcode-sol/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Vruthika/leetcode-sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vruthika/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vruthika/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vruthika/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
