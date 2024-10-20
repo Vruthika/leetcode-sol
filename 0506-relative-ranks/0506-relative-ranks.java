@@ -24,10 +24,10 @@ class Solution {
                 map.put(sortarr[n-i-1],String.valueOf(1+i));
             }
         }
-        for(int i=0;i<n;i++)
-        {
-            res[i]=map.get(score[i]);
-        }
-        return res;
+    for(int i=0;i<n;i++)
+    {
+        res[i]=map.get(score[i]);
+    }
+    return res;
     }
 }
