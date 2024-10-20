@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Vruthika/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Vruthika/leetcode-sol/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vruthika/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Vruthika/leetcode-sol/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vruthika/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vruthika/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
+| [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
