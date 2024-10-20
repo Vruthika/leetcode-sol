@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vruthika/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Vruthika/leetcode-sol/tree/master/0394-decode-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/Vruthika/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vruthika/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Vruthika/leetcode-sol/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1197-parsing-a-boolean-expression](https://github.com/Vruthika/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Vruthika/leetcode-sol/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vruthika/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/Vruthika/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vruthika/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vruthika/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
