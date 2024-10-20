@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vruthika/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/Vruthika/leetcode-sol/tree/master/0342-power-of-four) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vruthika/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0415-add-strings) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vruthika/leetcode-sol/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vruthika/leetcode-sol/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Vruthika/leetcode-sol/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Vruthika/leetcode-sol/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vruthika/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vruthika/leetcode-sol/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Vruthika/leetcode-sol/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Vruthika/leetcode-sol/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vruthika/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
