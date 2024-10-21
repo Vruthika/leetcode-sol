@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vruthika/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vruthika/leetcode-sol/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vruthika/leetcode-sol/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vruthika/leetcode-sol/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/2331-intersection-of-multiple-arrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Vruthika/leetcode-sol/tree/master/1205-defanging-an-ip-address) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vruthika/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Vruthika/leetcode-sol/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Vruthika/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vruthika/leetcode-sol/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vruthika/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Rolling Hash
 |  |
