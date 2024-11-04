@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vruthika/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vruthika/leetcode-sol/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vruthika/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vruthika/leetcode-sol/tree/master/0344-reverse-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Vruthika/leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Vruthika/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Vruthika/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Vruthika/leetcode-sol/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0908-middle-of-the-linked-list) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Vruthika/leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Vruthika/leetcode-sol/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vruthika/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vruthika/leetcode-sol/tree/master/0326-power-of-three) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vruthika/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vruthika/leetcode-sol/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
