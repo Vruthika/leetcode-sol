@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vruthika/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vruthika/leetcode-sol/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vruthika/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vruthika/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vruthika/leetcode-sol/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vruthika/leetcode-sol/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2716-prime-subtraction-operation](https://github.com/Vruthika/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vruthika/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
