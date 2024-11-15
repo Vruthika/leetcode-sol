@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vruthika/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/Vruthika/leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vruthika/leetcode-sol/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/Vruthika/leetcode-sol/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Vruthika/leetcode-sol/tree/master/1791-richest-customer-wealth) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Vruthika/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Vruthika/leetcode-sol/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Vruthika/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vruthika/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vruthika/leetcode-sol/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vruthika/leetcode-sol/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2716-prime-subtraction-operation](https://github.com/Vruthika/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Vruthika/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vruthika/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vruthika/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vruthika/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Vruthika/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Memoization
 |  |
 | ------- |
