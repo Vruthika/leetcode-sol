@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vruthika/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vruthika/leetcode-sol/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/Vruthika/leetcode-sol/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vruthika/leetcode-sol/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vruthika/leetcode-sol/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
