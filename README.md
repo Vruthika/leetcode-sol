@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Vruthika/leetcode-sol/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Vruthika/leetcode-sol/tree/master/0932-monotonic-array) |
 | [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Vruthika/leetcode-sol/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vruthika/leetcode-sol/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vruthika/leetcode-sol/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vruthika/leetcode-sol/tree/master/1694-make-sum-divisible-by-p) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vruthika/leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Vruthika/leetcode-sol/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vruthika/leetcode-sol/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vruthika/leetcode-sol/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vruthika/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Vruthika/leetcode-sol/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Greedy
 |  |
 | ------- |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Vruthika/leetcode-sol/tree/master/0506-relative-ranks) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -649,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Vruthika/leetcode-sol/tree/master/1039-find-the-town-judge) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
