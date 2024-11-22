@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Vruthika/leetcode-sol/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vruthika/leetcode-sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Vruthika/leetcode-sol/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vruthika/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/Vruthika/leetcode-sol/tree/master/1039-find-the-town-judge) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vruthika/leetcode-sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vruthika/leetcode-sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Vruthika/leetcode-sol/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vruthika/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Vruthika/leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
