@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vruthika/leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Vruthika/leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Vruthika/leetcode-sol/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0234-palindrome-linked-list) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Vruthika/leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Vruthika/leetcode-sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vruthika/leetcode-sol/tree/master/0125-valid-palindrome) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vruthika/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vruthika/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Vruthika/leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vruthika/leetcode-sol/tree/master/0198-house-robber) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vruthika/leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Vruthika/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Vruthika/leetcode-sol/tree/master/0670-maximum-swap) |
