@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vruthika/leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Vruthika/leetcode-sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Vruthika/leetcode-sol/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Vruthika/leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Vruthika/leetcode-sol/tree/master/0214-shortest-palindrome) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vruthika/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Vruthika/leetcode-sol/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/Vruthika/leetcode-sol/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vruthika/leetcode-sol/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
