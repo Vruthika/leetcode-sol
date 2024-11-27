@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vruthika/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vruthika/leetcode-sol/tree/master/0303-range-sum-query-immutable) |
+| [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vruthika/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Vruthika/leetcode-sol/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Vruthika/leetcode-sol/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
 ## Geometry
@@ -680,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
 ## Enumeration
 |  |
@@ -695,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vruthika/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
