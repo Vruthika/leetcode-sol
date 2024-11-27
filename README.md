@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vruthika/leetcode-sol/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vruthika/leetcode-sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1861-building-boxes](https://github.com/Vruthika/leetcode-sol/tree/master/1861-building-boxes) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Vruthika/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/Vruthika/leetcode-sol/tree/master/2722-prime-in-diagonal) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vruthika/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1861-building-boxes](https://github.com/Vruthika/leetcode-sol/tree/master/1861-building-boxes) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vruthika/leetcode-sol/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vruthika/leetcode-sol/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2716-prime-subtraction-operation](https://github.com/Vruthika/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Vruthika/leetcode-sol/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/1018-largest-perimeter-triangle) |
+| [1861-building-boxes](https://github.com/Vruthika/leetcode-sol/tree/master/1861-building-boxes) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vruthika/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vruthika/leetcode-sol/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2716-prime-subtraction-operation](https://github.com/Vruthika/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
