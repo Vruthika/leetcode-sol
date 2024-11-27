@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vruthika/leetcode-sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vruthika/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vruthika/leetcode-sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Vruthika/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vruthika/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/0053-maximum-subarray) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vruthika/leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Vruthika/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vruthika/leetcode-sol/tree/master/0141-linked-list-cycle) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vruthika/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Vruthika/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
