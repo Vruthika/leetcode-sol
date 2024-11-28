@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vruthika/leetcode-sol/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vruthika/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vruthika/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vruthika/leetcode-sol/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Vruthika/leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Vruthika/leetcode-sol/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/Vruthika/leetcode-sol/tree/master/1972-rotating-the-box) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2722-prime-in-diagonal](https://github.com/Vruthika/leetcode-sol/tree/master/2722-prime-in-diagonal) |
 ## Simulation
 |  |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Vruthika/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vruthika/leetcode-sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Segment Tree
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Vruthika/leetcode-sol/tree/master/1039-find-the-town-judge) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vruthika/leetcode-sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Monotonic Queue
 |  |
@@ -705,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
