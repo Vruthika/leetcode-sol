@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Counting
 |  |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vruthika/leetcode-sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Segment Tree
