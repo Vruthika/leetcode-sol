@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vruthika/leetcode-sol/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/Vruthika/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/Vruthika/leetcode-sol/tree/master/0575-distribute-candies) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vruthika/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vruthika/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/Vruthika/leetcode-sol/tree/master/0089-gray-code) |
+| [0494-target-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vruthika/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Rolling Hash
