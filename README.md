@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vruthika/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vruthika/leetcode-sol/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2232-adding-spaces-to-a-string) |
+| [2291-maximum-and-sum-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2291-maximum-and-sum-of-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vruthika/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vruthika/leetcode-sol/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vruthika/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2291-maximum-and-sum-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2291-maximum-and-sum-of-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vruthika/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3394-minimum-array-end](https://github.com/Vruthika/leetcode-sol/tree/master/3394-minimum-array-end) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1017-odd-even-jump](https://github.com/Vruthika/leetcode-sol/tree/master/1017-odd-even-jump) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vruthika/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2291-maximum-and-sum-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2291-maximum-and-sum-of-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -797,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
+## Bitmask
+|  |
+| ------- |
+| [2291-maximum-and-sum-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2291-maximum-and-sum-of-array) |
 <!---LeetCode Topics End-->
