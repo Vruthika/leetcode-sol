@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Vruthika/leetcode-sol/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Vruthika/leetcode-sol/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Vruthika/leetcode-sol/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0601-human-traffic-of-stadium](https://github.com/Vruthika/leetcode-sol/tree/master/0601-human-traffic-of-stadium) |
 | [1153-product-sales-analysis-i](https://github.com/Vruthika/leetcode-sol/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Vruthika/leetcode-sol/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Vruthika/leetcode-sol/tree/master/1245-user-activity-for-the-past-30-days-i) |
