@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Vruthika/leetcode-sol/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Vruthika/leetcode-sol/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vruthika/leetcode-sol/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Vruthika/leetcode-sol/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vruthika/leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vruthika/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Vruthika/leetcode-sol/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Vruthika/leetcode-sol/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Vruthika/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Vruthika/leetcode-sol/tree/master/0670-maximum-swap) |
