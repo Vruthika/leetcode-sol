@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Vruthika/leetcode-sol/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Vruthika/leetcode-sol/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vruthika/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Vruthika/leetcode-sol/tree/master/0386-lexicographical-numbers) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
