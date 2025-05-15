@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Vruthika/leetcode-sol/tree/master/0932-monotonic-array) |
+| [0993-tallest-billboard](https://github.com/Vruthika/leetcode-sol/tree/master/0993-tallest-billboard) |
 | [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vruthika/leetcode-sol/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0993-tallest-billboard](https://github.com/Vruthika/leetcode-sol/tree/master/0993-tallest-billboard) |
 | [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vruthika/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
