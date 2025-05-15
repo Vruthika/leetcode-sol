@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vruthika/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vruthika/leetcode-sol/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Vruthika/leetcode-sol/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vruthika/leetcode-sol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Vruthika/leetcode-sol/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Vruthika/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-odd-even-jump](https://github.com/Vruthika/leetcode-sol/tree/master/1017-odd-even-jump) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vruthika/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2291-maximum-and-sum-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2291-maximum-and-sum-of-array) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Vruthika/leetcode-sol/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Vruthika/leetcode-sol/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Vruthika/leetcode-sol/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vruthika/leetcode-sol/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Vruthika/leetcode-sol/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Vruthika/leetcode-sol/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
