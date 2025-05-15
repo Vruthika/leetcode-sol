@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vruthika/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vruthika/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Vruthika/leetcode-sol/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Vruthika/leetcode-sol/tree/master/0443-string-compression) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Vruthika/leetcode-sol/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Vruthika/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Vruthika/leetcode-sol/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vruthika/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vruthika/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Vruthika/leetcode-sol/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/Vruthika/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vruthika/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Vruthika/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -773,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
