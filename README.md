@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vruthika/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vruthika/leetcode-sol/tree/master/0485-max-consecutive-ones) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vruthika/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Vruthika/leetcode-sol/tree/master/0506-relative-ranks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vruthika/leetcode-sol/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vruthika/leetcode-sol/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
+| [0407-trapping-rain-water-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/Vruthika/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vruthika/leetcode-sol/tree/master/1073-number-of-enclaves) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vruthika/leetcode-sol/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
