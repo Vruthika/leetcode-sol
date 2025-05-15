@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vruthika/leetcode-sol/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/Vruthika/leetcode-sol/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/Vruthika/leetcode-sol/tree/master/0517-super-washing-machines) |
 | [0575-distribute-candies](https://github.com/Vruthika/leetcode-sol/tree/master/0575-distribute-candies) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vruthika/leetcode-sol/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vruthika/leetcode-sol/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vruthika/leetcode-sol/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Vruthika/leetcode-sol/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Vruthika/leetcode-sol/tree/master/0455-assign-cookies) |
+| [0517-super-washing-machines](https://github.com/Vruthika/leetcode-sol/tree/master/0517-super-washing-machines) |
 | [0670-maximum-swap](https://github.com/Vruthika/leetcode-sol/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Vruthika/leetcode-sol/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/1018-largest-perimeter-triangle) |
