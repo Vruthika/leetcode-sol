@@ -1,23 +1,29 @@
 class Solution {
-    public String longestPalindrome(String s) {
-        int n = s.length();
-        boolean[][] f = new boolean[n][n];
-        for (var g : f) {
-            Arrays.fill(g, true);
+    private int exploreCentre(String s,int l,int r){
+        while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
+            l--;
+            r++;
         }
-        int k = 0, mx = 1;
-        for (int i = n - 2; i >= 0; --i) {
-            for (int j = i + 1; j < n; ++j) {
-                f[i][j] = false;
-                if (s.charAt(i) == s.charAt(j)) {
-                    f[i][j] = f[i + 1][j - 1];
-                    if (f[i][j] && mx < j - i + 1) {
-                        mx = j - i + 1;
-                        k = i;
-                    }
-                }
+        return r-l-1;
+    }   
+
+    public String longestPalindrome(String s) {
+        if(s==null || s.length()<1){
+            return "";
+        }
+
+        int st=0,end=0;
+        for(int i=0;i<s.length();i++){
+            int l1=exploreCentre(s,i,i);
+            int l2=exploreCentre(s,i,i+1);
+            int currmax=Math.max(l1,l2);
+
+            if(currmax>(end-st+1)){
+                st=i-(currmax-1)/2;
+                end=i+currmax/2;
             }
         }
-        return s.substring(k, k + mx);
+        return s.substring(st,end+1);
     }
+
 }
