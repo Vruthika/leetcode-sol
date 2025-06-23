@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vruthika/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Vruthika/leetcode-sol/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vruthika/leetcode-sol/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Vruthika/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Vruthika/leetcode-sol/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vruthika/leetcode-sol/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2058-concatenation-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vruthika/leetcode-sol/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vruthika/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Brainteaser
 |  |
