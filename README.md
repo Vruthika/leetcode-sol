@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Vruthika/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Vruthika/leetcode-sol/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Vruthika/leetcode-sol/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vruthika/leetcode-sol/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vruthika/leetcode-sol/tree/master/0342-power-of-four) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Vruthika/leetcode-sol/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Union Find
 |  |
@@ -843,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2291-maximum-and-sum-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2291-maximum-and-sum-of-array) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vruthika/leetcode-sol/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
