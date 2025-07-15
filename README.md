@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Vruthika/leetcode-sol/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/Vruthika/leetcode-sol/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
