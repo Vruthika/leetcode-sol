@@ -1,10 +1,10 @@
 class Solution {
-    private int exploreCentre(String s,int l,int r){
+    private String exploreCentre(String s,int l,int r){
         while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
             l--;
             r++;
         }
-        return r-l-1;
+        return s.substring(l+1,r);
     }   
 
     public String longestPalindrome(String s) {
@@ -12,18 +12,16 @@ class Solution {
             return "";
         }
 
-        int st=0,end=0;
+        String longest="";
         for(int i=0;i<s.length();i++){
-            int l1=exploreCentre(s,i,i);
-            int l2=exploreCentre(s,i,i+1);
-            int currmax=Math.max(l1,l2);
-
-            if(currmax>(end-st+1)){
-                st=i-(currmax-1)/2;
-                end=i+currmax/2;
-            }
+            String l1=exploreCentre(s,i,i);
+            String l2=exploreCentre(s,i,i+1);
+            if(l1.length()>longest.length())
+                longest=l1;
+            if(l2.length()>longest.length())
+                longest=l2;
         }
-        return s.substring(st,end+1);
+        return longest;
     }
 
 }
