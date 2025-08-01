@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vruthika/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Vruthika/leetcode-sol/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vruthika/leetcode-sol/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0993-tallest-billboard](https://github.com/Vruthika/leetcode-sol/tree/master/0993-tallest-billboard) |
 | [1002-maximum-width-ramp](https://github.com/Vruthika/leetcode-sol/tree/master/1002-maximum-width-ramp) |
 | [1017-odd-even-jump](https://github.com/Vruthika/leetcode-sol/tree/master/1017-odd-even-jump) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Vruthika/leetcode-sol/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vruthika/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vruthika/leetcode-sol/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vruthika/leetcode-sol/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vruthika/leetcode-sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Vruthika/leetcode-sol/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vruthika/leetcode-sol/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Vruthika/leetcode-sol/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0993-tallest-billboard](https://github.com/Vruthika/leetcode-sol/tree/master/0993-tallest-billboard) |
 | [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1017-odd-even-jump](https://github.com/Vruthika/leetcode-sol/tree/master/1017-odd-even-jump) |
