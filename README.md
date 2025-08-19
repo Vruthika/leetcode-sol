@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Vruthika/leetcode-sol/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Vruthika/leetcode-sol/tree/master/1018-largest-perimeter-triangle) |
+| [1086-divisor-game](https://github.com/Vruthika/leetcode-sol/tree/master/1086-divisor-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Vruthika/leetcode-sol/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vruthika/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vruthika/leetcode-sol/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-tallest-billboard](https://github.com/Vruthika/leetcode-sol/tree/master/0993-tallest-billboard) |
 | [1013-fibonacci-number](https://github.com/Vruthika/leetcode-sol/tree/master/1013-fibonacci-number) |
 | [1017-odd-even-jump](https://github.com/Vruthika/leetcode-sol/tree/master/1017-odd-even-jump) |
+| [1086-divisor-game](https://github.com/Vruthika/leetcode-sol/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vruthika/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2291-maximum-and-sum-of-array](https://github.com/Vruthika/leetcode-sol/tree/master/2291-maximum-and-sum-of-array) |
 | [2627-difference-between-maximum-and-minimum-price-sum](https://github.com/Vruthika/leetcode-sol/tree/master/2627-difference-between-maximum-and-minimum-price-sum) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Vruthika/leetcode-sol/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Vruthika/leetcode-sol/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vruthika/leetcode-sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Union Find
 |  |
@@ -859,4 +862,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Vruthika/leetcode-sol/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Vruthika/leetcode-sol/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
