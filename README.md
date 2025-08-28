@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/Vruthika/leetcode-sol/tree/master/2722-prime-in-diagonal) |
 | [2755-extra-characters-in-a-string](https://github.com/Vruthika/leetcode-sol/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vruthika/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vruthika/leetcode-sol/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vruthika/leetcode-sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vruthika/leetcode-sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vruthika/leetcode-sol/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
