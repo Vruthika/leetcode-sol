@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vruthika/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Vruthika/leetcode-sol/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vruthika/leetcode-sol/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vruthika/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vruthika/leetcode-sol/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vruthika/leetcode-sol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Vruthika/leetcode-sol/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vruthika/leetcode-sol/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vruthika/leetcode-sol/tree/master/0415-add-strings) |
