@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Vruthika/leetcode-sol/tree/master/0312-burst-balloons) |
 | [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vruthika/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Vruthika/leetcode-sol/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Vruthika/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Vruthika/leetcode-sol/tree/master/0432-all-oone-data-structure) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Vruthika/leetcode-sol/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Vruthika/leetcode-sol/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Vruthika/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vruthika/leetcode-sol/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vruthika/leetcode-sol/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Vruthika/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vruthika/leetcode-sol/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vruthika/leetcode-sol/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/Vruthika/leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vruthika/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Vruthika/leetcode-sol/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vruthika/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vruthika/leetcode-sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Vruthika/leetcode-sol/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vruthika/leetcode-sol/tree/master/0731-my-calendar-ii) |
